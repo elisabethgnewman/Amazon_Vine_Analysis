@@ -8,3 +8,9 @@ In my analysis, I pulled the AWS US Shoes data and created four different datafr
 ![image](https://user-images.githubusercontent.com/88783255/145735912-f6461c25-6c4e-429a-a972-c4598318caee.png)
 
 The vine dataframe will be the most helpful with our analysis because it's providing detailed information about each review.
+
+## Results
+There were 2,639,935 reviews with 5 star ratings:
+
+![image](https://user-images.githubusercontent.com/88783255/145736560-63662644-0855-4071-bda7-b95eead8a192.png)
+
