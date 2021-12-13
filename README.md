@@ -14,3 +14,9 @@ There were 2,639,935 reviews with 5 star ratings:
 
 ![image](https://user-images.githubusercontent.com/88783255/145736560-63662644-0855-4071-bda7-b95eead8a192.png)
 
+## Summary
+
+There is likely a positivity bias, given the vast amount of 5 star ratings in this data. When a review is required, I would assume that the reviewer is more likely to give a 5 star review. 
+
+![image](https://user-images.githubusercontent.com/88783255/145737496-6c35f24e-9206-4fc4-86d2-b2b499a400ff.png)
+
