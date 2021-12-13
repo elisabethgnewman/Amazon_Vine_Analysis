@@ -16,7 +16,7 @@ There were 2,639,935 reviews with 5 star ratings:
 
 ## Summary
 
-There is likely a positivity bias, given the vast amount of 5 star ratings in this data; however, the data doesn't suggest it is because of vine vs. non-vine reviews. When a review is required, I would assume that the reviewer is more likely to give a 5 star review. In this case, 
+There is likely a positivity bias, given the vast amount of 5 star ratings in this data; however, the data doesn't suggest it is because of vine vs. non-vine reviews. When a review is required, I would assume that the reviewer is more likely to give a 5 star review. In this case, a small fraction of the reviewers are vine reviewers so that does not prove to be a factor here.
 
 ![image](https://user-images.githubusercontent.com/88783255/145737496-6c35f24e-9206-4fc4-86d2-b2b499a400ff.png)
 
